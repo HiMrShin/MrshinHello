@@ -1,0 +1,10 @@
+sentence-transformers
+faiss-cpu
+tiktoken
+pypdf
+loguru
+docx2txt
+langchain 
+langchain-experimental 
+openai
+ipywidgets
