@@ -4,7 +4,7 @@ tiktoken
 pypdf
 loguru
 docx2txt
-langchain 
 langchain-experimental 
+langchain 
 openai
 ipywidgets
