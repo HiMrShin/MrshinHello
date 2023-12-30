@@ -10,7 +10,6 @@
 # pip install sentencepiece
 
 # 실행: streamlit run test_streamlit_RAG.py
-# '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'
 
 # 코드 실행 환경 :
 # python3.10, Windows11
